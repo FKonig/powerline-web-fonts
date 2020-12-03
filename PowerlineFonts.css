@@ -101,3 +101,11 @@
     font-weight: normal;
     font-style: italic;
 }
+
+@font-face {
+    font-family: 'FiraMono Nerd Font Mono';
+    src: url('fonts/FiraMonoNerdFontCompleteM-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
